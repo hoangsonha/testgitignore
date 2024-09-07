@@ -6,6 +6,3 @@ git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch src/m
 
 git push origin --force --all
 
-test conflic
-
-cho nay conflic ne
